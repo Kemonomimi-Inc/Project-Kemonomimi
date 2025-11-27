@@ -1,12 +1,16 @@
 [submodule "KazukiSuzukiNekoKun"]
 	path = KazukiSuzukiNekoKun
 	url = https://github.com/Kemonomimi-Inc/KazukiSuzukiNekoKun
+	branch = main
 [submodule "TsukiumiNekoKun"]
 	path = TsukiumiNekoKun
 	url = https://github.com/Kemonomimi-Inc/TsukiumiNekoKun
+	branch = main
 [submodule "OukaNekoChan"]
 	path = OukaNekoChan
 	url = https://github.com/Kemonomimi-Inc/OukaNekoChan
+	branch = main
 [submodule "HimariKitsuneChan"]
 	path = HimariKitsuneChan
 	url = https://github.com/Kemonomimi-Inc/HimariKitsuneChan
+	branch = main
